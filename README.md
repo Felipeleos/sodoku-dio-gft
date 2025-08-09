@@ -1,6 +1,6 @@
 # Projeto Sudoku - CLI (Java + Maven)
 
-Projeto pronto para ser enviado ao GitHub. Implementação simples de um jogo/estado de Sudoku em Java com interface por terminal (CLI).
+Implementação simples de um jogo/estado de Sudoku em Java com interface por terminal (CLI).
 
 ## Estrutura
 - `src/main/java/com/sudoku` — código-fonte
